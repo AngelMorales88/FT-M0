@@ -1,0 +1,28 @@
+body { background: url(https://i0.wp.com/hotbook.com.mx/wp-content/uploads/2014/09/hotbook-27.jpg?fit=630%2C473&ssl=1) ;
+}
+#thirdDiv {
+height: 600px;
+width: 500px;
+border: 1px solid color black;
+
+
+
+}
+p{
+    border: 2px solid color black;
+}
+.sapnId {
+     style font-size: 18px
+     margin: 50px;
+     style="background-color: rgba(245, 245, 245, 0.247) ;"
+
+
+
+}
+ img{
+style height: 400px;
+
+}
+div{text-align: center;
+     
+}
