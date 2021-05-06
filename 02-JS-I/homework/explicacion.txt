@@ -1,0 +1,13 @@
+	* Variables
+	teemos varis pero las basicas son 3
+		var, const, let
+	* Strings
+	es cualquier dato asignado a las variables y se distinguen por que llevan ' '
+	* Funciones (argumentos, `return`)
+	los que vimos era el return, que daba una respuesta, al igual que cosole.log
+	* Declaraciones `if`
+	tenemos if que es como en español que pregunts si tiene ciertas caracteres como tú respuesta es? y al igual si no se 
+		parece puedes agregar else que es como entonces pasa esto estos dos arojan una respuesta que es un boleano 
+		que puede ser modificado con texto
+	* Valores booleanos (`true`, `false`)
+	son condicionales que vi en if que te dicen si la pregunta que haces es verdadrea o falsa 
