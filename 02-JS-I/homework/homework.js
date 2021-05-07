@@ -64,7 +64,7 @@ divide(100,10)
 
 function sonIguales(x, y) {
   if (x === y) {
-       return true;
+    return true;
   } else {
     return false;
   }
@@ -108,7 +108,7 @@ function mayorQueCincuenta(num) {
 
 
 function obtenerResto(x, y) {
-  return x % y
+  return x % y;
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
 }
@@ -175,9 +175,9 @@ function numeroRandom() {
 }
 
 function esPositivo(numero) {
-    if (numero > 1) {
+    if (numero > 0) {
       return 'Es positivo';
-  } else if (numero < -1) {
+  } else if (numero < -0) {
       return 'Es negativo';
   } else {
       return false;
