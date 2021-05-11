@@ -1,0 +1,17 @@
+* Objetos
+estos lo sreconocemos porque tienen {}
+donde dentro de ellos llevan propiedades 🢃
+	* Propiedades 
+    es el vlaor asignado dentro de un objeto y este 
+    puede contener varios tipos como arrays, num strings Objetos
+
+	* Métodos estos son las funciones qie ya conocemos pero dentro de los objetos su nombre 
+    cambia a metodos el cuel nos permite realizar funciones comlejas dentro del objeto
+	* Bucle `for…in`
+    el bucle for in, es distinto a su hermano for ya qie el primero esta mas enfocado 
+    en buscar las propiedades del objeto y el segundo esta mas enfocado solo a los arrays
+	* Notación de puntos vs notación de corchetes 
+    bueno es este apartado tengo un poco de dudas en cuando agregar puntos, punto y coma y {}
+    ya que me falla ese tea pero lo que si me queda claro 
+    es cuando ocupar [] en los array y los {}
+    en los objetos.  
