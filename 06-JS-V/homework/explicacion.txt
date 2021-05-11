@@ -1,0 +1,10 @@
+`prototype`
+es como un herencia creo yo y es la manera de relacionar objetos como funciones y más
+es la mejor manera de generar cadenas para unir las funciones de los objetos
+
+
+_Constructors_ (de Clases)
+esta funcion permite en base a una plantilla crear objetos 
+poder jalar objetos de otros objetos y 
+y asi tambien poder acceder a las funciones y datos de otros
+.
