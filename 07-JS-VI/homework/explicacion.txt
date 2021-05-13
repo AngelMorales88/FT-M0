@@ -1,0 +1,9 @@
+Funciones Callback
+por lo que entendi es una funcion dentro de otra funcion
+ó una funcion que llama a otra funcion y es super util 
+ya qie te ahorras mucho codigo al trabajar con las Funciones
+ya declaradas con anterioridad o las quie estan integradas 
+no haces dos cosas para una sola solo pones corectamente los
+datos y pumm!!! ya tienes lo qye buscabas con solo 1 linea de codigo.
+
+=)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)  =)
